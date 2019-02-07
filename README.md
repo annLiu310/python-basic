@@ -1,9 +1,18 @@
 # python-basic
 Python Basic Usage
+
 Data types
+
+
 Numbers
+
+
 Strings
+
+
 Printing
+
+
 Lists
 Dictionaries
 Booleans
